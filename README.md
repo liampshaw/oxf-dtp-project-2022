@@ -8,11 +8,18 @@ The aim of the project is to investigate the following hypothesis:
 
 ### Background
 
-Restriction-modification systems are the most prevalent form of 'defense system' that bacteria have against incoming DNA from the wider pangenome: bacterial viruses (phage) and plasmids. R-M systems are present in 83% of prokaryotic genomes, nearly double the rate of the next most abundant defense system, CRISPR-Cas. The restriction enzymes chop up incoming foreign DNA that lacks the correct methylation pattern (the addition of a methyl group that stops ut binding and chopping up the DNA). 
+Restriction-modification systems are the most prevalent form of 'defense system' that bacteria have against incoming DNA such as bacterial viruses (phage) and plasmids. R-M systems are present in 83% of prokaryotic genomes, nearly double the rate of the next most abundant defense system, CRISPR-Cas. The restriction enzymes chop up DNA that lacks the correct methylation pattern (the addition of a methyl group that stops ut binding and chopping up the DNA). This provides bacteria with a first-line of defense against mobile genetic elements.  
 
 The most abundant type of R-M system are Type II systems. Type II R-M systems target short stretches of DNA of 4-8bp long, which are 'palindromic' in DNA terms (e.g. GAATTC which when reversed and complemented - G becomes C, A becomes T etc. - is identical to itself). Bioinformatic analysis confirms that both phages, plasmids, and bacterial chromosomes are under selective pressure to avoid these short palindromes in their sequence - they have fewer than would be expected by chance.
 
-In this project, you will investigate the occurrence of restriction targets in antimicrobial resistance (AMR) genes in *Escherichia coli* (*E. coli*). 
+However, mobile genetic elements are also a major vehicle for the spread of antimicrobial resistance (AMR) genes. This raises the question of whether there might be signatures of selective pressure from R-M systems in AMR genes which have spread between many different strains of bacteria.  
+
+In this project, you will investigate the occurrence of restriction targets in AMR genes in the bacterium *Escherichia coli* (*E. coli*).
+
+If you interested in background reading:
+
+[1](https://doi.org/10.1101/gr.153101)
+ 
 
 ## Dataset 
 
