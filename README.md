@@ -46,7 +46,7 @@ Primary analysis:
 * Look at occurrences of the restriction targets across genes
 * Test if patterns are consistent with the hypothesis
 
-For testing, you will need to think about the independence (or not) of the genes you are testing. 
+For testing, you will need to think about the independence (or not) of the genes you are testing. You could also think about a control group of other genes to look for occurrence of restriction targets in. 
 
 Secondary analysis (only if complete primary!):
 
