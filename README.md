@@ -18,7 +18,7 @@ In this project, you will investigate the occurrence of restriction targets in A
 
 If you interested in background reading:
 
-[1Rocha et al. (2001)](https://doi.org/10.1101/gr.153101) - early study looking at the occurrence of short palindromes (a proxy for restriction targets) in bacterial chromosomes and in phage. 
+[Rocha et al. (2001)](https://doi.org/10.1101/gr.153101) - early study looking at the occurrence of short palindromes (a proxy for restriction targets) in bacterial chromosomes and in phage. 
 
 [Roberts et al. (2015)](https://doi.org/10.1093/nar/gku1046) - information on REBASE, a curated database of R-M enzymes and their targets, with background information about types of R-M system.
 
