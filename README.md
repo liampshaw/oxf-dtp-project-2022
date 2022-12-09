@@ -18,9 +18,11 @@ In this project, you will investigate the occurrence of restriction targets in A
 
 If you interested in background reading:
 
-[1](https://doi.org/10.1101/gr.153101) Rocha et al. (2001) - early study looking at the occurrence of short palindromes (a proxy for restriction targets) in bacterial chromosomes and in phage. 
-[2](https://doi.org/10.1093/nar/gku1046) Roberts et al. (2015) - information on REBASE, a curated database of R-M enzymes and their targets, with background information about types of R-M system.
-[3](https://doi.org/10.1126/science.aax3879) MacLean and San Millan (2019) - short perspective on the horizontal transfer of AMR genes and potential barriers to AMR gene spread.
+[1Rocha et al. (2001)](https://doi.org/10.1101/gr.153101) - early study looking at the occurrence of short palindromes (a proxy for restriction targets) in bacterial chromosomes and in phage. 
+
+[Roberts et al. (2015)](https://doi.org/10.1093/nar/gku1046) - information on REBASE, a curated database of R-M enzymes and their targets, with background information about types of R-M system.
+
+[MacLean and San Millan (2019)](https://doi.org/10.1126/science.aax3879) - short perspective on the horizontal transfer of AMR genes and potential barriers to AMR gene spread.
  
 
 ## Dataset 
