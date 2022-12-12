@@ -1,0 +1,687 @@
+ARO.Accession,Name,Model.ID,Model.Type,Pathogen,NCBI.Plasmid,NCBI.WGS,NCBI.Chromosome,NCBI.Genomic.Island,Criteria,ARO.Categories
+ARO:3001989,CTX-M-130,7,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002356,NDM-6,8,protein homolog model,Escherichia coli,0.01,0,0,0.13,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3000988,TEM-126,12,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000928,TEM-59,15,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002372,VEB-3,26,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam
+ARO:3002835,lnuA,27,protein homolog model,Escherichia coli,0,0.08,0,0,perfect_strict,antibiotic inactivation; lincosamide antibiotic
+ARO:3003109,msrE,33,protein homolog model,Escherichia coli,0.08,0.28,0.09,0,perfect_strict,antibiotic target protection; lincosamide antibiotic; macrolide antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic; streptogramin antibiotic; tetracycline antibiotic
+ARO:3002804,FosA2,35,protein homolog model,Escherichia coli,0.02,0.02,0,0.13,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3001328,Escherichia coli mdfA,37,protein homolog model,Escherichia coli,0,74.65,61.46,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; tetracycline antibiotic
+ARO:3002528,AAC(3)-Ia,39,protein homolog model,Escherichia coli,0,0.02,0.06,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3003550,mdtP,45,protein homolog model,Escherichia coli,0.03,74.57,61.26,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; nucleoside antibiotic
+ARO:3000904,TEM-34,54,protein homolog model,Escherichia coli,0.06,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002053,CMY-42,62,protein homolog model,Escherichia coli,0.28,0.48,0,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin
+ARO:3002546,AAC(6')-Ib,63,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000996,TEM-132,68,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002620,aadA23,69,protein homolog model,Escherichia coli,0.02,0.23,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000916,TEM-47,77,protein homolog model,Escherichia coli,0,0.06,0,0.13,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000887,TEM-16,78,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000965,TEM-102,86,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000979,TEM-116,87,protein homolog model,Escherichia coli,0.01,0.14,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000508,gadX,91,protein homolog model,Escherichia coli,0,73.97,60.49,0.13,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; penam
+ARO:3002067,CMY-56,95,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3000972,TEM-109,101,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003209,fosA5,112,protein homolog model,Escherichia coli,0,0.03,0.03,0,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3002375,VEB-5,113,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam
+ARO:3000954,TEM-87,115,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002604,aadA4,120,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000796,mdtF,121,protein homolog model,Escherichia coli,0,74.54,61.35,0.13,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; penam
+ARO:3001045,TEM-183,126,protein homolog model,Escherichia coli,0.01,0.08,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001912,CTX-M-50,131,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001057,TEM-198,132,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002724,QnrB10,139,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002612,aadA12,149,protein homolog model,Escherichia coli,0,0.67,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002676,catB3,150,protein homolog model,Escherichia coli,1.11,5.14,0.83,1.28,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3000830,cpxA,152,protein homolog model,Escherichia coli,0.01,74.71,61.55,0.13,perfect_strict,aminocoumarin antibiotic; aminoglycoside antibiotic; antibiotic efflux
+ARO:3000777,adeF,153,protein homolog model,Escherichia coli,0.23,1,0.03,0.13,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; tetracycline antibiotic
+ARO:3000815,mgrA,154,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic efflux; cephalosporin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; penam; peptide antibiotic; tetracycline antibiotic
+ARO:3001055,TEM-195,155,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003017,dfrA21,157,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3001886,CTX-M-24,175,protein homolog model,Escherichia coli,0.02,0.26,0.49,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000839,arlS,182,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; fluoroquinolone antibiotic
+ARO:3001778,OXA-232,185,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001900,CTX-M-38,192,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001918,CTX-M-56,197,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001002,TEM-138,198,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002655,APH(4)-Ia,205,protein homolog model,Escherichia coli,0.41,2.22,0.26,0.51,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001383,TEM-206,211,protein homolog model,Escherichia coli,0.04,0.21,0.03,0.13,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001948,CTX-M-88,225,protein homolog model,Escherichia coli,0,0,0,0.13,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002797,QnrS8,234,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3001784,OXA-181,235,protein homolog model,Escherichia coli,0.22,0.37,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001404,OXA-9,243,protein homolog model,Escherichia coli,0.14,0.22,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002695,cmlA5,245,protein homolog model,Escherichia coli,0.32,0.86,0.06,0.26,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3001024,TEM-158,247,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001205,BRP(MBL),255,protein homolog model,Escherichia coli,0.63,1.96,0.17,0,perfect_strict,antibiotic inactivation; glycopeptide antibiotic
+ARO:3002032,CMY-21,256,protein homolog model,Escherichia coli,0.01,0,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3002856,dfrA24,263,protein homolog model,Escherichia coli,0.01,0.06,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3003206,lsaE,264,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target protection; lincosamide antibiotic; macrolide antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic; streptogramin antibiotic; tetracycline antibiotic
+ARO:3002015,CMY-4,271,protein homolog model,Escherichia coli,0.05,0.11,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3000958,TEM-91,277,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001984,CTX-M-125,282,protein homolog model,Escherichia coli,0,0.09,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000883,TEM-11,285,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002641,APH(3')-Ia,291,protein homolog model,Escherichia coli,1.79,7.69,1.49,1.02,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000888,TEM-17,292,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001384,TEM-207,302,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001041,TEM-176,314,protein homolog model,Escherichia coli,0.02,0.06,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001898,CTX-M-36,316,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001015,TEM-148,317,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002609,aadA9,323,protein homolog model,Escherichia coli,0.09,0.26,0.03,0.13,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002217,IMP-26,330,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3001032,TEM-166,331,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002598,ANT(3'')-Ii-AAC(6')-IId fusion protein,339,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002192,IMP-1,341,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3001425,OXA-31,343,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002738,QnrB23,346,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002715,QnrB2,353,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000873,TEM-1,355,protein homolog model,Escherichia coli,5.38,23.83,3.83,1.15,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000975,TEM-112,359,protein homolog model,Escherichia coli,0.03,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001021,TEM-155,363,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000984,TEM-122,365,protein homolog model,Escherichia coli,0,0.09,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003046,qacA,372,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3001216,mdtH,375,protein homolog model,Escherichia coli,0.01,74.72,61.46,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3002837,lnuC,376,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; lincosamide antibiotic
+ARO:3000026,mepA,377,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic efflux; glycylcycline; tetracycline antibiotic
+ARO:3001391,TEM-214,378,protein homolog model,Escherichia coli,0.01,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002005,CTX-M-147,380,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002790,QnrS1,381,protein homolog model,Escherichia coli,1.47,3.85,0.8,0.13,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000792,mdtA,387,protein homolog model,Escherichia coli,0.04,74.64,61.32,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux
+ARO:3002272,VIM-2,391,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3000413,sul3,396,protein homolog model,Escherichia coli,1.43,4.87,0.4,0.89,perfect_strict,antibiotic target replacement; sulfonamide antibiotic; sulfone antibiotic
+ARO:3000937,TEM-71,398,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002863,dfrA8,403,protein homolog model,Escherichia coli,0.16,1.58,0.17,0.13,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3000903,TEM-33,415,protein homolog model,Escherichia coli,0,0.07,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001788,OXA-204,416,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002720,QnrB6,417,protein homolog model,Escherichia coli,0.03,0.14,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3001864,CTX-M-1,420,protein homolog model,Escherichia coli,0.35,1.53,0.06,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000874,TEM-2,421,protein homolog model,Escherichia coli,0.02,0.23,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001373,TEM-182,425,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001137,SHV-83,439,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002680,catB8,446,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3002868,dfrG,448,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3002801,QnrVC4,452,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002314,KPC-4,454,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; monobactam; penam
+ARO:3000553,adeR,456,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; glycylcycline; tetracycline antibiotic
+ARO:3000166,tet(B),458,protein homolog model,Escherichia coli,1.57,12.13,3.72,2.81,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3003182,NDM-13,464,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3002242,CARB-3,467,protein homolog model,Escherichia coli,0.05,0.15,0,0,perfect_strict,antibiotic inactivation; penam
+ARO:3001399,OXA-4,470,protein homolog model,Escherichia coli,0.01,0.02,0,1.28,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3000990,TEM-128,472,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002533,AAC(3)-IIa,478,protein homolog model,Escherichia coli,0,0.01,0,0.77,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001051,TEM-191,485,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001048,TEM-188,490,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000951,TEM-84,493,protein homolog model,Escherichia coli,0.02,0.07,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002732,QnrB17,498,protein homolog model,Escherichia coli,0,0.08,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002617,aadA17,502,protein homolog model,Escherichia coli,0.02,0.26,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001930,CTX-M-69,503,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000921,TEM-52,504,protein homolog model,Escherichia coli,0.01,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001872,CTX-M-9,510,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001943,CTX-M-82,512,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003576,eptA,516,protein homolog model,Escherichia coli,0.03,74.58,61.35,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3002789,QnrD2,517,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000656,AcrS,520,protein homolog model,Escherichia coli,0.04,73.68,59.29,0,perfect_strict,antibiotic efflux; cephalosporin; cephamycin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; glycylcycline; penam; phenicol antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3002705,floR,522,protein homolog model,Escherichia coli,2.46,7.73,1.72,0,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3003020,dfrA25,524,protein homolog model,Escherichia coli,0.01,0.1,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3000962,TEM-95,536,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000254,emrY,540,protein homolog model,Escherichia coli,0.03,74.17,61.12,66.92,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3000997,TEM-133,541,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000970,TEM-107,549,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001977,CTX-M-117,551,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001783,OXA-163,554,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002530,AAC(3)-Ib,575,protein homolog model,Escherichia coli,0.01,0.08,0.06,0.13,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002777,QnrB65,577,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3001070,SHV-11,578,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3000973,TEM-110,580,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002734,QnrB19,581,protein homolog model,Escherichia coli,0.05,0.6,0.03,0.13,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002618,aadA21,584,protein homolog model,Escherichia coli,0.01,0.05,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002357,NDM-7,585,protein homolog model,Escherichia coli,0.02,0.05,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3000939,TEM-73,587,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001012,TEM-145,589,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003014,dfrA16,598,protein homolog model,Escherichia coli,0.05,0.11,0.03,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3002013,CMY-2,600,protein homolog model,Escherichia coli,0.49,2.85,1.09,1.79,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3001329,mdtG,603,protein homolog model,Escherichia coli,0.01,74.73,61.46,1.4,perfect_strict,antibiotic efflux; fosfomycin
+ARO:3001378,TEM-201,607,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000206,emrK,609,protein homolog model,Escherichia coli,0.03,74.11,61.12,66.92,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3001793,OXA-320,620,protein homolog model,Escherichia coli,0.01,0.1,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002761,QnrB46,625,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002539,AAC(3)-IV,639,protein homolog model,Escherichia coli,0.47,2.27,0.29,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3003197,aadA25,642,protein homolog model,Escherichia coli,0.01,0.53,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000215,mecR1,645,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target replacement; carbapenem; cephalosporin; cephamycin; monobactam; penam
+ARO:3002601,aadA,650,protein homolog model,Escherichia coli,1.9,10.95,2.29,2.94,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000882,TEM-10,665,protein homolog model,Escherichia coli,0.02,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001926,CTX-M-65,668,protein homolog model,Escherichia coli,0.23,0.82,0.2,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000982,TEM-120,681,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002793,QnrS4,682,protein homolog model,Escherichia coli,0.1,0.04,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3001982,CTX-M-123,689,protein homolog model,Escherichia coli,0.03,0.09,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003441,cfrA,696,protein homolog model,Escherichia coli,0.03,0.02,0,0,perfect_strict,antibiotic target alteration; lincosamide antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic; streptogramin antibiotic
+ARO:3003106,Erm(42),697,protein homolog model,Escherichia coli,0.11,0.23,0.03,0.13,perfect_strict,antibiotic target alteration; lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic
+ARO:3001382,TEM-205,698,protein homolog model,Escherichia coli,0.03,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001957,CTX-M-98,702,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002661,APH(7'')-Ia,706,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001390,TEM-213,709,protein homolog model,Escherichia coli,0.1,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002675,catB2,712,protein homolog model,Escherichia coli,0.02,0.03,0,0,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3002864,dfrB1,714,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3000621,PC1 beta-lactamase (blaZ),726,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; penam
+ARO:3001871,CTX-M-8,729,protein homolog model,Escherichia coli,0.04,0.27,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002596,AAC(6')-IIc,730,protein homolog model,Escherichia coli,0.02,0.1,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000900,TEM-30,735,protein homolog model,Escherichia coli,0.03,0.15,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002848,arr-3,743,protein homolog model,Escherichia coli,0.44,1.47,0.23,0.26,perfect_strict,antibiotic inactivation; rifamycin antibiotic
+ARO:3001394,TEM-217,751,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001910,CTX-M-48,754,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000878,TEM-6,760,protein homolog model,Escherichia coli,0.03,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001917,CTX-M-55,762,protein homolog model,Escherichia coli,0.7,2.27,0.37,0.26,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002683,catI,763,protein homolog model,Escherichia coli,0.49,5.13,2.2,0.64,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3002721,QnrB7,765,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002035,CMY-24,771,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3000205,tetX,776,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; glycylcycline; tetracycline antibiotic
+ARO:3000589,NDM-1,783,protein homolog model,Escherichia coli,0.3,0.46,0.11,0.13,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3003019,dfrA23,787,protein homolog model,Escherichia coli,0.03,0.03,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3002043,CMY-32,790,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3000924,TEM-55,797,protein homolog model,Escherichia coli,0,0.08,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001947,CTX-M-87,800,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001037,TEM-171,808,protein homolog model,Escherichia coli,0.02,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000793,mdtB,820,protein homolog model,Escherichia coli,0.04,74.71,61.23,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux
+ARO:3002788,QnrD1,822,protein homolog model,Escherichia coli,0,0.07,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000237,TolC,826,protein homolog model,Escherichia coli,0.03,74.69,61.52,0,perfect_strict,aminocoumarin antibiotic; aminoglycoside antibiotic; antibiotic efflux; carbapenem; cephalosporin; cephamycin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; glycylcycline; macrolide antibiotic; penam; penem; peptide antibiotic; phenicol antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3002872,FosA3,834,protein homolog model,Escherichia coli,0.73,2.62,0.34,0.26,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3002642,APH(3')-Ib,835,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000935,TEM-68,836,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002055,CMY-44,839,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3001877,CTX-M-14,841,protein homolog model,Escherichia coli,0.56,3,1.14,0.26,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003577,ugd,842,protein homolog model,Escherichia coli,0.03,53.39,44.65,7.79,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3001029,TEM-163,845,protein homolog model,Escherichia coli,0,0.18,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002072,CMY-58,854,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3001005,TEM-142,855,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000746,mepR,856,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic efflux; glycylcycline; tetracycline antibiotic
+ARO:3002074,CMY-61,864,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3001786,OXA-244,865,protein homolog model,Escherichia coli,0,0.13,0.69,0.13,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002132,DHA-1,868,protein homolog model,Escherichia coli,0.03,0.28,0.06,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin
+ARO:3000518,CRP,869,protein homolog model,Escherichia coli,0,74.78,61.58,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; penam
+ARO:3003015,dfrA19,875,protein homolog model,Escherichia coli,0.08,0.23,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3003056,smeE,876,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; phenicol antibiotic; tetracycline antibiotic
+ARO:3002000,CTX-M-142,878,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001374,TEM-185,879,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000250,ErmC,881,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic target alteration; lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic
+ARO:3002659,APH(6)-Ic,892,protein homolog model,Escherichia coli,0.03,0.38,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001990,CTX-M-131,896,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000167,tet(C),900,protein homolog model,Escherichia coli,0.08,1.08,0.26,3.19,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3000860,rmtB,904,protein homolog model,Escherichia coli,0.47,1.31,0.11,0.13,perfect_strict,aminoglycoside antibiotic; antibiotic target alteration
+ARO:3002704,fexA,907,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3001997,CTX-M-139,908,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002626,ANT(6)-Ia,914,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001019,TEM-152,920,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002599,AAC(6')-30/AAC(6')-Ib' fusion protein,922,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002587,AAC(6')-33,924,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002534,AAC(3)-IIb,925,protein homolog model,Escherichia coli,0,0.02,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000412,sul2,952,protein homolog model,Escherichia coli,4.63,24.8,4.92,3.7,perfect_strict,antibiotic target replacement; sulfonamide antibiotic; sulfone antibiotic
+ARO:3000955,TEM-88,956,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001001,TEM-137,960,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002082,CMY-69,963,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3002694,cmlA4,971,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3002034,CMY-23,972,protein homolog model,Escherichia coli,0,0,0.03,0.13,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3002714,QnrB1,975,protein homolog model,Escherichia coli,0.03,0.18,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3001922,CTX-M-61,976,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000963,TEM-96,979,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000829,baeS,986,protein homolog model,Escherichia coli,0.04,74.71,61.41,0,perfect_strict,aminocoumarin antibiotic; aminoglycoside antibiotic; antibiotic efflux
+ARO:3000361,EreA,991,protein homolog model,Escherichia coli,0,0.03,0.06,0,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3002580,AAC(6')-Ib9,993,protein homolog model,Escherichia coli,0.1,0.26,0.11,0.13,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001178,SHV-134,998,protein homolog model,Escherichia coli,0.09,0.44,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002577,AAC(6')-Ib4,1002,protein homolog model,Escherichia coli,0.03,0.03,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001386,TEM-209,1010,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000899,TEM-29,1011,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000832,evgA,1015,protein homolog model,Escherichia coli,0.1,74.12,61.38,67.18,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; penam; tetracycline antibiotic
+ARO:3000898,TEM-28,1022,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002205,IMP-14,1023,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3001000,TEM-136,1025,protein homolog model,Escherichia coli,0.02,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001059,SHV-1,1028,protein homolog model,Escherichia coli,0.03,0.07,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002660,APH(6)-Id,1031,protein homolog model,Escherichia coli,4.59,24.45,4.43,3.32,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002693,cmlA1,1037,protein homolog model,Escherichia coli,0.73,4,0.34,0.64,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3001060,SHV-2,1053,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002576,AAC(6')-Ib3,1068,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000410,sul1,1070,protein homolog model,Escherichia coli,4.67,18.41,3.37,2.43,perfect_strict,antibiotic target replacement; sulfonamide antibiotic; sulfone antibiotic
+ARO:3000891,TEM-20,1075,protein homolog model,Escherichia coli,0.02,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002274,VIM-4,1078,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3001035,TEM-169,1090,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002197,IMP-6,1091,protein homolog model,Escherichia coli,0,0.01,0.06,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3000946,TEM-79,1096,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001782,OXA-48,1099,protein homolog model,Escherichia coli,0.15,0.43,0.91,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001883,CTX-M-21,1101,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000216,acrB,1104,protein homolog model,Escherichia coli,0.01,74.75,61.55,3.19,perfect_strict,antibiotic efflux; cephalosporin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; glycylcycline; penam; phenicol antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3002540,AAC(3)-VIa,1105,protein homolog model,Escherichia coli,0.15,0.67,0.06,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000467,NDM-5,1106,protein homolog model,Escherichia coli,0.63,1.57,0.06,0.13,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3002847,arr-2,1116,protein homolog model,Escherichia coli,0.25,0.52,0.03,0,perfect_strict,antibiotic inactivation; rifamycin antibiotic
+ARO:3001397,OXA-2,1118,protein homolog model,Escherichia coli,0.02,0.09,0.09,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002652,APH(3')-VIa,1121,protein homolog model,Escherichia coli,0.03,0.01,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001046,TEM-186,1124,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001925,CTX-M-64,1127,protein homolog model,Escherichia coli,0.02,0.13,0.03,0.13,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001418,OXA-23,1128,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002531,AAC(3)-Ic,1131,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000957,TEM-90,1137,protein homolog model,Escherichia coli,0,0.12,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000168,tet(D),1138,protein homolog model,Escherichia coli,0.07,1.07,0.49,0.64,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3002858,dfrA12,1139,protein homolog model,Escherichia coli,1.66,5.84,0.71,1.02,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3002860,dfrA17,1142,protein homolog model,Escherichia coli,2.08,8.56,1.37,0.26,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3001983,CTX-M-124,1145,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001022,TEM-156,1146,protein homolog model,Escherichia coli,0.02,0.02,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002313,KPC-3,1153,protein homolog model,Escherichia coli,0.13,0.11,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; monobactam; penam
+ARO:3001013,TEM-146,1154,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000993,TEM-129,1159,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002615,aadA15,1162,protein homolog model,Escherichia coli,0.03,0.52,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000421,norB,1167,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3002359,NDM-9,1168,protein homolog model,Escherichia coli,0.02,0.28,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3000923,TEM-54,1173,protein homolog model,Escherichia coli,0.01,0.04,0.11,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002322,KPC-12,1177,protein homolog model,Escherichia coli,0,0,0,0.13,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; monobactam; penam
+ARO:3002195,IMP-4,1179,protein homolog model,Escherichia coli,0.04,0.04,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3001965,CTX-M-105,1182,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001214,mdtM,1191,protein homolog model,Escherichia coli,0.02,65.13,53.34,2.04,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; fluoroquinolone antibiotic; lincosamide antibiotic; nucleoside antibiotic; phenicol antibiotic
+ARO:3003107,mef(B),1198,protein homolog model,Escherichia coli,1,3.36,0.26,0.38,perfect_strict,antibiotic efflux; macrolide antibiotic
+ARO:3000251,msrA,1200,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; lincosamide antibiotic; macrolide antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic; streptogramin antibiotic; tetracycline antibiotic
+ARO:3000448,QepA1,1206,protein homolog model,Escherichia coli,0,0.07,0,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3002271,VIM-1,1211,protein homolog model,Escherichia coli,0.03,0.04,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3003157,TEM-219,1218,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001043,TEM-178,1225,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002602,aadA2,1227,protein homolog model,Escherichia coli,1.99,6.37,0.91,1.15,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001895,CTX-M-33,1230,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003676,AAC(6')-Ib',1235,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001007,TEM-144,1241,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002622,aadA6/aadA10,1242,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000316,mphA,1243,protein homolog model,Escherichia coli,3.65,11.84,2.14,1.02,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3000676,H-NS,1248,protein homolog model,Escherichia coli,0.12,74.57,61.46,0,perfect_strict,antibiotic efflux; cephalosporin; cephamycin; fluoroquinolone antibiotic; macrolide antibiotic; penam; tetracycline antibiotic
+ARO:3002159,FOX-5,1249,protein homolog model,Escherichia coli,0.02,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin
+ARO:3001908,CTX-M-46,1254,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002780,QnrB68,1257,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002769,QnrB56,1263,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000595,ErmT,1275,protein homolog model,Escherichia coli,0,0.1,0,0,perfect_strict,antibiotic target alteration; lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic
+ARO:3000967,TEM-104,1279,protein homolog model,Escherichia coli,0.01,0.07,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002895,SAT-2,1285,protein homolog model,Escherichia coli,0.07,2.28,1.09,1.28,perfect_strict,antibiotic inactivation; nucleoside antibiotic
+ARO:3001004,TEM-141,1290,protein homolog model,Escherichia coli,0,0.07,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002684,catII,1295,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3000804,MexF,1300,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic efflux; diaminopyrimidine antibiotic; fluoroquinolone antibiotic; phenicol antibiotic
+ARO:3000379,OprM,1305,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminocoumarin antibiotic; aminoglycoside antibiotic; antibiotic efflux; carbapenem; cephalosporin; cephamycin; diaminopyrimidine antibiotic; disinfecting agents and antiseptics; fluoroquinolone antibiotic; macrolide antibiotic; monobactam; penam; penem; peptide antibiotic; phenicol antibiotic; sulfonamide antibiotic; tetracycline antibiotic
+ARO:3000794,mdtC,1315,protein homolog model,Escherichia coli,0.04,74.71,61.29,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux
+ARO:3001866,CTX-M-3,1317,protein homolog model,Escherichia coli,0.08,0.41,0.06,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin; penam
+ARO:3000833,evgS,1318,protein homolog model,Escherichia coli,0.11,74.41,61.35,67.05,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; penam; tetracycline antibiotic
+ARO:3000617,mecA,1321,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target replacement; carbapenem; cephalosporin; cephamycin; monobactam; penam
+ARO:3000516,emrR,1330,protein homolog model,Escherichia coli,0.02,74.64,61.46,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3002647,APH(3')-IIIa,1332,protein homolog model,Escherichia coli,0.01,0.05,0.54,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000828,baeR,1337,protein homolog model,Escherichia coli,0.04,74.71,61.38,0,perfect_strict,aminocoumarin antibiotic; aminoglycoside antibiotic; antibiotic efflux
+ARO:3002689,Plasmid-encoded cat (pp-cat),1342,protein homolog model,Escherichia coli,0.03,0.2,0,0,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3000178,tet(K),1345,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3000960,TEM-93,1350,protein homolog model,Escherichia coli,0,0.11,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002334,GES-5,1353,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001016,TEM-149,1355,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001991,CTX-M-132,1357,protein homolog model,Escherichia coli,0.02,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002581,AAC(6')-Ib10,1370,protein homolog model,Escherichia coli,0.21,0.56,0.06,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000230,ANT(2'')-Ia,1372,protein homolog model,Escherichia coli,0.08,0.64,0.14,0.26,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002535,AAC(3)-IIc,1378,protein homolog model,Escherichia coli,0.13,0.32,0.14,0.89,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001053,TEM-193,1380,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000790,mdsB,1385,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; carbapenem; cephalosporin; cephamycin; monobactam; penam; penem; phenicol antibiotic
+ARO:3002619,aadA22,1392,protein homolog model,Escherichia coli,0.34,0.75,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000858,armA,1405,protein homolog model,Escherichia coli,0.04,0.24,0.09,0,perfect_strict,aminoglycoside antibiotic; antibiotic target alteration
+ARO:3002017,CMY-6,1409,protein homolog model,Escherichia coli,0.09,0.08,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3002135,DHA-6,1418,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin
+ARO:3002605,aadA5,1420,protein homolog model,Escherichia coli,2.33,8.85,1.32,0.26,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000952,TEM-85,1421,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000886,TEM-15,1423,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000491,acrD,1427,protein homolog model,Escherichia coli,0.09,74.69,61.58,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux
+ARO:3002696,cmlA6,1435,protein homolog model,Escherichia coli,0.24,0.61,0.11,0,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3000910,TEM-40,1436,protein homolog model,Escherichia coli,0.03,0.07,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000502,AcrF,1437,protein homolog model,Escherichia coli,0.04,73.22,60.61,0,perfect_strict,antibiotic efflux; cephalosporin; cephamycin; fluoroquinolone antibiotic; penam
+ARO:3001962,CTX-M-103,1440,protein homolog model,Escherichia coli,0,0,0,0.64,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003548,mdtN,1442,protein homolog model,Escherichia coli,0.03,74.34,61.18,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; nucleoside antibiotic
+ARO:3000499,AcrE,1445,protein homolog model,Escherichia coli,0.04,74.02,60.86,0,perfect_strict,antibiotic efflux; cephalosporin; cephamycin; fluoroquinolone antibiotic; penam
+ARO:3001393,TEM-216,1452,protein homolog model,Escherichia coli,0.24,0.64,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001023,TEM-157,1458,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002607,aadA7,1464,protein homolog model,Escherichia coli,0.03,0.13,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001179,SHV-135,1468,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3000780,adeI,1471,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; carbapenem; cephalosporin; diaminopyrimidine antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; macrolide antibiotic; penem; phenicol antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3001906,CTX-M-44,1473,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000941,TEM-75,1488,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002839,lnuF,1491,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; lincosamide antibiotic
+ARO:3003011,dfrA10,1497,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3002897,SAT-4,1505,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; nucleoside antibiotic
+ARO:3002354,NDM-3,1515,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3002826,EreA2,1518,protein homolog model,Escherichia coli,0.03,0.15,0,0,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3002229,IMP-38,1522,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3001026,TEM-160,1525,protein homolog model,Escherichia coli,0.04,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001034,TEM-168,1528,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000948,TEM-81,1531,protein homolog model,Escherichia coli,0,0.1,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002027,CMY-16,1535,protein homolog model,Escherichia coli,0,0.01,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3002603,aadA3,1539,protein homolog model,Escherichia coli,0.14,0.74,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000861,rmtC,1540,protein homolog model,Escherichia coli,0.09,0.07,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic target alteration
+ARO:3002033,CMY-22,1543,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3000375,ErmB,1549,protein homolog model,Escherichia coli,0.62,1.84,0.43,0.13,perfect_strict,antibiotic target alteration; lincosamide antibiotic; macrolide antibiotic; streptogramin antibiotic
+ARO:3002628,aad(6),1562,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002685,catIII,1580,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3002861,dfrA5,1582,protein homolog model,Escherichia coli,0.25,1.97,0.11,0.13,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3001894,CTX-M-32,1586,protein homolog model,Escherichia coli,0.01,0.56,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001405,OXA-10,1587,protein homolog model,Escherichia coli,0.22,0.48,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002859,dfrA14,1592,protein homolog model,Escherichia coli,1.21,4.25,0.23,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3001061,SHV-2A,1597,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001879,CTX-M-16,1606,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001798,OXA-74,1610,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001915,CTX-M-53,1632,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002122,CMY-111,1638,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3001865,CTX-M-2,1648,protein homolog model,Escherichia coli,0.01,0.18,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001940,CTX-M-79,1656,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002594,AAC(6')-IIa,1657,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001815,ACC-1,1663,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam
+ARO:3000782,adeK,1664,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; carbapenem; cephalosporin; diaminopyrimidine antibiotic; fluoroquinolone antibiotic; lincosamide antibiotic; macrolide antibiotic; penem; phenicol antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3000947,TEM-80,1667,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001868,CTX-M-5,1675,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002547,AAC(6')-Ib-cr1,1678,protein homolog model,Escherichia coli,0,0.02,0,1.15,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic
+ARO:3002621,aadA24,1682,protein homolog model,Escherichia coli,0.08,0.68,0.03,0.26,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001950,CTX-M-90,1688,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000186,tetM,1692,protein homolog model,Escherichia coli,0.61,1.89,0.09,0,perfect_strict,antibiotic target protection; tetracycline antibiotic
+ARO:3001006,TEM-143,1693,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000999,TEM-135,1697,protein homolog model,Escherichia coli,0.24,0.22,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002718,QnrB4,1707,protein homolog model,Escherichia coli,0.04,0.26,0.06,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000978,TEM-115,1709,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001375,TEM-184,1722,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000318,mphB,1731,protein homolog model,Escherichia coli,0.03,0.51,0,0,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3001190,SHV-151,1732,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3000922,TEM-53,1740,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002312,KPC-2,1745,protein homolog model,Escherichia coli,0.29,0.43,0.03,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; monobactam; penam
+ARO:3001327,MdtK,1752,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3001885,CTX-M-23,1755,protein homolog model,Escherichia coli,0.01,0,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000027,emrA,1757,protein homolog model,Escherichia coli,0.02,74.66,61.49,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3002616,aadA16,1762,protein homolog model,Escherichia coli,0.17,0.41,0.06,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002002,CTX-M-144,1768,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001975,CTX-M-115,1769,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000989,TEM-127,1770,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000890,TEM-19,1771,protein homolog model,Escherichia coli,0,0.07,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002796,QnrS7,1775,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000884,TEM-12,1782,protein homolog model,Escherichia coli,0,0.1,0.06,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003033,mexY,1786,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux; carbapenem; cephalosporin; cephamycin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; macrolide antibiotic; penam; phenicol antibiotic; tetracycline antibiotic
+ARO:3001030,TEM-164,1791,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001014,TEM-147,1799,protein homolog model,Escherichia coli,0.01,0.01,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000165,tet(A),1808,protein homolog model,Escherichia coli,4.48,22.41,3.23,0,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3002719,QnrB5,1809,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002597,AAC(6')-Ie-APH(2'')-Ia,1814,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001992,CTX-M-134,1815,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000880,TEM-8,1816,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002986,bacA,1820,protein homolog model,Escherichia coli,0.03,74.72,61.58,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3001889,CTX-M-27,1825,protein homolog model,Escherichia coli,0.54,1.48,0.09,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001064,SHV-5,1827,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002639,APH(3'')-Ib,1830,protein homolog model,Escherichia coli,4.53,24.44,4.37,3.45,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002791,QnrS2,1832,protein homolog model,Escherichia coli,0.1,0.43,0.03,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000565,tet(38),1835,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3002069,CMY-59,1840,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3000074,emrB,1847,protein homolog model,Escherichia coli,0.02,74.49,61.15,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3002735,QnrB20,1856,protein homolog model,Escherichia coli,0.06,0.16,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3000949,TEM-82,1868,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002879,linG,1873,protein homolog model,Escherichia coli,0.3,1.01,0.06,0,perfect_strict,antibiotic inactivation; lincosamide antibiotic
+ARO:3000936,TEM-70,1887,protein homolog model,Escherichia coli,0,0.11,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002355,NDM-4,1889,protein homolog model,Escherichia coli,0.03,0.05,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3000953,TEM-86,1890,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000179,tet(L),1897,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3000795,mdtE,1903,protein homolog model,Escherichia coli,0,74.53,61.29,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; penam
+ARO:3001995,CTX-M-136,1910,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001385,TEM-208,1916,protein homolog model,Escherichia coli,0,0.27,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000363,EreB,1921,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3000263,marA,1922,protein homolog model,Escherichia coli,0.07,74.42,61.44,0,perfect_strict,antibiotic efflux; carbapenem; cephalosporin; cephamycin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; glycylcycline; monobactam; penam; penem; phenicol antibiotic; reduced permeability to antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3000378,MexB,1925,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux; carbapenem; cephalosporin; cephamycin; diaminopyrimidine antibiotic; fluoroquinolone antibiotic; macrolide antibiotic; monobactam; penam; penem; peptide antibiotic; phenicol antibiotic; sulfonamide antibiotic; tetracycline antibiotic
+ARO:3001017,TEM-150,1931,protein homolog model,Escherichia coli,0,0.42,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002006,CTX-M-148,1944,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000942,TEM-76,1951,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001396,OXA-1,1952,protein homolog model,Escherichia coli,0.59,5.24,0.89,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001020,TEM-154,1954,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003052,smeB,1960,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux; cephalosporin; cephamycin; penam
+ARO:3000968,TEM-105,1961,protein homolog model,Escherichia coli,0.13,0.21,0.09,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001050,TEM-190,1963,protein homolog model,Escherichia coli,0.03,0.07,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000974,TEM-111,1973,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003210,FosA4,1979,protein homolog model,Escherichia coli,0.1,0.13,0,0,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3001066,SHV-7,1985,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002707,QnrA1,1987,protein homolog model,Escherichia coli,0.04,0.1,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3002018,CMY-7,1988,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3002854,dfrA1,1992,protein homolog model,Escherichia coli,0.43,4.74,1.29,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3001392,TEM-215,1999,protein homolog model,Escherichia coli,0.13,0.09,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001049,TEM-189,2004,protein homolog model,Escherichia coli,0,0.07,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002218,IMP-27,2006,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam; penem
+ARO:3002606,aadA6,2009,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3001988,CTX-M-129,2010,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003578,PmrF,2014,protein homolog model,Escherichia coli,0.04,74.56,61.32,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3002134,DHA-3,2015,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin
+ARO:3001203,SHV-165,2021,protein homolog model,Escherichia coli,0.02,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001963,CTX-M-104,2022,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3000926,TEM-57,2025,protein homolog model,Escherichia coli,0.03,0.2,0.09,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001923,CTX-M-62,2032,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001878,CTX-M-15,2035,protein homolog model,Escherichia coli,1.25,6.21,2.52,0,perfect_strict,antibiotic inactivation; cephalosporin; penam
+ARO:3002608,aadA8,2043,protein homolog model,Escherichia coli,0.01,0.56,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3003013,dfrA15,2051,protein homolog model,Escherichia coli,0.04,0.27,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3002862,dfrA7,2053,protein homolog model,Escherichia coli,0.03,1.19,0.57,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3003549,mdtO,2056,protein homolog model,Escherichia coli,0.03,74.43,61.15,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; nucleoside antibiotic
+ARO:3001362,SHV-179,2057,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3002812,pp-flo,2058,protein homolog model,Escherichia coli,0.01,0.08,0,0,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3000319,mphC,2062,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3001376,TEM-196,2064,protein homolog model,Escherichia coli,0.03,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002613,aadA13,2087,protein homolog model,Escherichia coli,0.01,0.12,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3002644,APH(3')-IIa,2114,protein homolog model,Escherichia coli,0.25,1.71,0.26,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3000876,TEM-4,2115,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3002578,AAC(6')-Ib7,2117,protein homolog model,Escherichia coli,0.33,1.65,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3003589,NmcA,2138,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3003680,TriB,2193,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics
+ARO:3003687,APH(3')-VI,2200,protein homolog model,Escherichia coli,0.05,0.11,0.03,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3003689,MCR-1.1,2203,protein homolog model,Escherichia coli,0.8,4.71,0.89,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3003692,MexJ,2205,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; macrolide antibiotic; tetracycline antibiotic
+ARO:3003693,MexK,2206,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; macrolide antibiotic; tetracycline antibiotic
+ARO:3003030,MexV,2207,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; fluoroquinolone antibiotic; macrolide antibiotic; phenicol antibiotic; tetracycline antibiotic
+ARO:3003031,MexW,2208,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics; fluoroquinolone antibiotic; macrolide antibiotic; phenicol antibiotic; tetracycline antibiotic
+ARO:3003698,mexP,2211,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; carbapenem; diaminopyrimidine antibiotic; disinfecting agents and antiseptics; macrolide antibiotic; phenicol antibiotic; tetracycline antibiotic
+ARO:3003699,mexQ,2212,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; carbapenem; diaminopyrimidine antibiotic; disinfecting agents and antiseptics; macrolide antibiotic; phenicol antibiotic; tetracycline antibiotic
+ARO:3003705,mexN,2217,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3003742,mphG,2259,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3003745,mefC,2262,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; macrolide antibiotic
+ARO:3003746,optrA,2263,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target protection; lincosamide antibiotic; macrolide antibiotic; oxazolidinone antibiotic; phenicol antibiotic; pleuromutilin antibiotic; streptogramin antibiotic; tetracycline antibiotic
+ARO:3003770,Listeria monocytogenes mprF,2279,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3003838,gadW,2324,protein homolog model,Escherichia coli,0,26.21,18.7,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic; macrolide antibiotic; penam
+ARO:3003841,kdpE,2331,protein homolog model,Escherichia coli,0.01,74.36,61.18,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux
+ARO:3003905,ANT(4')-Ib,2383,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3003158,TEM-220,2398,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3003922,oqxA,2399,protein homolog model,Escherichia coli,0.57,2.83,0.09,0,perfect_strict,antibiotic efflux; diaminopyrimidine antibiotic; fluoroquinolone antibiotic; glycylcycline; nitrofuran antibiotic; tetracycline antibiotic
+ARO:3003923,oqxB,2400,protein homolog model,Escherichia coli,0.36,2.13,0.11,0,perfect_strict,antibiotic efflux; diaminopyrimidine antibiotic; fluoroquinolone antibiotic; glycylcycline; nitrofuran antibiotic; tetracycline antibiotic
+ARO:3003950,msbA,2423,protein homolog model,Escherichia coli,0,74.76,61.55,0,perfect_strict,antibiotic efflux; nitroimidazole antibiotic
+ARO:3003952,YojI,2424,protein homolog model,Escherichia coli,0.07,74.65,61.29,0,perfect_strict,antibiotic efflux; peptide antibiotic
+ARO:3003741,mphE,2614,protein homolog model,Escherichia coli,0.08,0.27,0.09,0,perfect_strict,antibiotic inactivation; macrolide antibiotic
+ARO:3004039,Escherichia coli emrE,2656,protein homolog model,Escherichia coli,0.03,44.64,41.68,0,perfect_strict,antibiotic efflux; macrolide antibiotic
+ARO:3004041,Klebsiella pneumoniae acrA,2659,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic efflux; cephalosporin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; glycylcycline; penam; phenicol antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3004043,Escherichia coli acrA,2661,protein homolog model,Escherichia coli,0.01,74.71,61.55,0,perfect_strict,antibiotic efflux; cephalosporin; disinfecting agents and antiseptics; fluoroquinolone antibiotic; glycylcycline; penam; phenicol antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3004072,OpmB,2716,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux; macrolide antibiotic; monobactam; tetracycline antibiotic
+ARO:3004073,MuxA,2717,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux; macrolide antibiotic; monobactam; tetracycline antibiotic
+ARO:3004075,MuxC,2720,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux; macrolide antibiotic; monobactam; tetracycline antibiotic
+ARO:3004085,lnuG,2749,protein homolog model,Escherichia coli,0.12,0.38,0,0,perfect_strict,antibiotic inactivation; lincosamide antibiotic
+ARO:3004089,ANT(3'')-IIa,2752,protein homolog model,Escherichia coli,0.49,1.62,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004093,NDM-17,2756,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3004103,QepA2,2771,protein homolog model,Escherichia coli,0.02,0.36,0.11,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3004111,FosA6,2779,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3004113,FosA7,2780,protein homolog model,Escherichia coli,0,0.02,0.03,0,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3004122,Klebsiella pneumoniae OmpK37,2785,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,carbapenem; cephalosporin; cephamycin; monobactam; penam; penem; reduced permeability to antibiotic
+ARO:3004139,MCR-3.1,2795,protein homolog model,Escherichia coli,0.07,0.12,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004194,MCR-1.2,2838,protein homolog model,Escherichia coli,0.51,0.1,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004290,Escherichia coli ampC beta-lactamase,2843,protein homolog model,Escherichia coli,0,11.08,11.98,0,perfect_strict,antibiotic inactivation; cephalosporin; penam
+ARO:3004332,MCR-5.1,2849,protein homolog model,Escherichia coli,0.02,0.23,0.03,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004379,QepA4,2880,protein homolog model,Escherichia coli,0.05,0.15,0,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3004441,tet(59),2881,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; tetracycline antibiotic
+ARO:3004442,tet(W/N/W),2882,protein homolog model,Escherichia coli,0.01,0.06,0,0,perfect_strict,antibiotic target protection; tetracycline antibiotic
+ARO:3004496,KPC-24,3024,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; monobactam; penam
+ARO:3004498,dfrB4,3076,protein homolog model,Escherichia coli,0.01,0.04,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3004505,MCR-3.5,3133,protein homolog model,Escherichia coli,0.07,0.06,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004507,MCR-1.9,3135,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004511,MCR-3.2,3139,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004513,MCR-1.6,3141,protein homolog model,Escherichia coli,0.02,0.02,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004515,MCR-1.4,3143,protein homolog model,Escherichia coli,0.01,0.04,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004550,dfrA27,3258,protein homolog model,Escherichia coli,0.18,0.43,0.06,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3004555,dfrA32,3263,protein homolog model,Escherichia coli,0,0.01,0.06,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3004569,ICR-Mo,3271,protein homolog model,Escherichia coli,0.29,0.01,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004572,Staphylococcus aureus LmrS,3276,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux; diaminopyrimidine antibiotic; macrolide antibiotic; oxazolidinone antibiotic; phenicol antibiotic
+ARO:3004580,Klebsiella pneumoniae KpnE,3283,protein homolog model,Escherichia coli,0.02,74.3,61.29,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux; cephalosporin; disinfecting agents and antiseptics; macrolide antibiotic; peptide antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3004583,Klebsiella pneumoniae KpnF,3286,protein homolog model,Escherichia coli,0.02,74.62,61.46,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux; cephalosporin; disinfecting agents and antiseptics; macrolide antibiotic; peptide antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3004588,Klebsiella pneumoniae KpnG,3298,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux; carbapenem; cephalosporin; fluoroquinolone antibiotic; macrolide antibiotic; penam; penem; peptide antibiotic
+ARO:3004597,Klebsiella pneumoniae KpnH,3299,protein homolog model,Escherichia coli,0,0.68,0.54,0,perfect_strict,aminoglycoside antibiotic; antibiotic efflux; carbapenem; cephalosporin; fluoroquinolone antibiotic; macrolide antibiotic; penam; penem; peptide antibiotic
+ARO:3004611,Escherichia coli ampC1 beta-lactamase,3306,protein homolog model,Escherichia coli,0.05,58.8,49.97,0,perfect_strict,antibiotic inactivation; cephalosporin; penam
+ARO:3004612,Escherichia coli ampH beta-lactamase,3307,protein homolog model,Escherichia coli,0.01,74.78,61.35,0,perfect_strict,antibiotic inactivation; cephalosporin; penam
+ARO:3003200,AAC(6')-Ian,3319,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004622,QnrS10,3320,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3004621,AAC(3)-IIe,3321,protein homolog model,Escherichia coli,0.52,3.09,0.63,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004623,AAC(3)-IId,3322,protein homolog model,Escherichia coli,1.46,5.06,1.2,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004624,QnrS11,3323,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic target protection; fluoroquinolone antibiotic
+ARO:3004628,AAC(2')-IIa,3327,protein homolog model,Escherichia coli,0,0.1,0.06,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004635,AAC(6')-Il,3334,protein homolog model,Escherichia coli,0.03,0.11,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004640,dfrA15b,3339,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3004656,catII from Escherichia coli K-12,3355,protein homolog model,Escherichia coli,0.13,0.59,0.06,0,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3004660,catB11,3360,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic inactivation; phenicol antibiotic
+ARO:3004651,lin,3361,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; lincosamide antibiotic
+ARO:3004667,Staphylococcus aureus norA,3367,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic efflux; fluoroquinolone antibiotic
+ARO:3004675,aphA15,3374,protein homolog model,Escherichia coli,0.02,0.03,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004678,rmtE,3377,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic target alteration
+ARO:3004684,MCR-9.1,3383,protein homolog model,Escherichia coli,0.03,0.23,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004685,MCR-1.5,3384,protein homolog model,Escherichia coli,0.02,0.03,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004686,MCR-1.7,3385,protein homolog model,Escherichia coli,0.01,0.05,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004691,MCR-3.4,3390,protein homolog model,Escherichia coli,0.02,0.02,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004698,MCR-5.2,3396,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3004704,aadA8b,3399,protein homolog model,Escherichia coli,0,0.62,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3004719,Tet(X3),3401,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; glycylcycline; tetracycline antibiotic
+ARO:3004720,Tet(X4),3402,protein homolog model,Escherichia coli,0.41,0.21,0,0,perfect_strict,antibiotic inactivation; glycylcycline; tetracycline antibiotic
+ARO:3001452,OXA-140,3406,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3001501,OXA-252,3425,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3003641,OXA-484,3545,protein homolog model,Escherichia coli,0.02,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3003652,CMY-132,3577,protein homolog model,Escherichia coli,0.01,0.08,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3004793,FONA-6,3590,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; penam
+ARO:3004797,FRI-1,3592,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; penam
+ARO:3004818,HERA-3,3612,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; penam
+ARO:3004825,LAP-1,3620,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3004826,LAP-2,3621,protein homolog model,Escherichia coli,0.08,0.18,0.06,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic; rifamycin antibiotic; tetracycline antibiotic
+ARO:3004854,CMY-136,3652,protein homolog model,Escherichia coli,0.03,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin
+ARO:3004856,SCO-1,3653,protein homolog model,Escherichia coli,0.02,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; penam; penem
+ARO:3003663,NDM-15,3657,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3004862,NDM-19,3660,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3004868,NDM-25,3666,protein homolog model,Escherichia coli,0,0,0,0.13,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3004871,NDM-28,3669,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3001044,TEM-181,3751,protein homolog model,Escherichia coli,0,0.1,0.11,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005009,qacE,3754,protein homolog model,Escherichia coli,0.08,0.59,0.03,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics
+ARO:3005010,qacEdelta1,3755,protein homolog model,Escherichia coli,3.77,17.76,3.29,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics
+ARO:3002653,APH(3')-VIb,3759,protein homolog model,Escherichia coli,0.02,0,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3005024,FosL1,3765,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3003647,CTX-M-163,3775,protein homolog model,Escherichia coli,0,0.32,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003648,CTX-M-164,3776,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3003650,CTX-M-166,3778,protein homolog model,Escherichia coli,0.01,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005043,cmlA9,3786,protein homolog model,Escherichia coli,0.02,0.02,0,0,perfect_strict,antibiotic efflux; phenicol antibiotic
+ARO:3005044,OmpA,3787,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,carbapenem; cephalosporin; cephamycin; monobactam; penam; penem; reduced permeability to antibiotic
+ARO:3005036,BLMT,3789,protein homolog model,Escherichia coli,0.12,0.46,0.03,0,perfect_strict,antibiotic inactivation; glycopeptide antibiotic
+ARO:3005047,eptB,3791,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3005053,ArnT,3795,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic target alteration; peptide antibiotic
+ARO:3005056,Tet(X6),3797,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic inactivation; tetracycline antibiotic
+ARO:3005059,LptD,3799,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,aminocoumarin antibiotic; antibiotic efflux; carbapenem; peptide antibiotic; rifamycin antibiotic
+ARO:3005064,cprS,3804,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic efflux; antibiotic target alteration; peptide antibiotic
+ARO:3005069,rsmA,3807,protein homolog model,Escherichia coli,0.03,74.63,61.52,0,perfect_strict,antibiotic efflux; diaminopyrimidine antibiotic; fluoroquinolone antibiotic; phenicol antibiotic
+ARO:3005085,AAC(3)-IIg,3820,protein homolog model,Escherichia coli,0.02,0.1,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation
+ARO:3005098,qacL,3830,protein homolog model,Escherichia coli,1.08,4.49,0.34,0,perfect_strict,antibiotic efflux; disinfecting agents and antiseptics
+ARO:3005112,AAC(6')-Ib-cr3,3840,protein homolog model,Escherichia coli,0,0.14,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic
+ARO:3005114,AAC(6')-Ib-cr4,3841,protein homolog model,Escherichia coli,0.01,0.08,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic
+ARO:3005115,AAC(6')-Ib-cr5,3842,protein homolog model,Escherichia coli,0.01,1.69,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic
+ARO:3005116,AAC(6')-Ib-cr6,3843,protein homolog model,Escherichia coli,1.14,3.4,0.77,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic
+ARO:3005117,AAC(6')-Ib-cr7,3844,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic
+ARO:3005119,AAC(6')-Ib-cr9,3846,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,aminoglycoside antibiotic; antibiotic inactivation; fluoroquinolone antibiotic
+ARO:3005131,NDM-29,3857,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; cephamycin; penam
+ARO:3005162,FosA7.5,3886,protein homolog model,Escherichia coli,0.01,0.84,0.46,0,perfect_strict,antibiotic inactivation; fosfomycin
+ARO:3005204,CMY-143,3891,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005181,CMY-146,3897,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005184,CMY-162,3900,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005185,CMY-140,3901,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005188,CMY-165,3904,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005191,CMY-139,3907,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005192,CMY-148,3908,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005195,CMY-142,3911,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005196,CMY-141,3912,protein homolog model,Escherichia coli,0.01,0.02,0.03,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005197,CMY-145,3915,protein homolog model,Escherichia coli,0.02,0.03,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005218,CMY-153,3939,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005220,CMY-138,3942,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3005239,SHV-193,3961,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3000877,TEM-5,3976,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000881,TEM-9,3977,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000901,TEM-31,3978,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000902,TEM-32,3979,protein homolog model,Escherichia coli,0.01,0.07,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000905,TEM-35,3980,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000906,TEM-36,3981,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000907,TEM-37,3982,protein homolog model,Escherichia coli,0.02,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3000909,TEM-39,3983,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001387,TEM-210,3985,protein homolog model,Escherichia coli,0.02,0.1,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3001389,TEM-212,3986,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005257,TEM-226,3989,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005259,TEM-228,3991,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005260,TEM-229,3992,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005261,TEM-230,3993,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005262,TEM-231,3994,protein homolog model,Escherichia coli,0,0.05,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005263,TEM-232,3995,protein homolog model,Escherichia coli,0.02,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005264,TEM-233,3996,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005265,TEM-234,3997,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005266,TEM-235,3998,protein homolog model,Escherichia coli,0.03,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005267,TEM-236,3999,protein homolog model,Escherichia coli,0.01,0.01,0.06,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005268,TEM-237,4000,protein homolog model,Escherichia coli,0.01,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005269,TEM-238,4001,protein homolog model,Escherichia coli,0.02,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005271,TEM-241,4003,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005272,TEM-242,4004,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005273,TEM-243,4005,protein homolog model,Escherichia coli,0.13,0.11,0.09,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3005347,DfrA37,4079,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3005348,DfrA36,4080,protein homolog model,Escherichia coli,0,0.29,0.09,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3005354,dfr22,4085,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic target replacement; diaminopyrimidine antibiotic
+ARO:3005364,KPC-30,4097,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; monobactam; penam
+ARO:3005378,KPC-49,4111,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; monobactam; penam
+ARO:3006463,CMY-174,4478,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephamycin
+ARO:3001986,CTX-M-127,4488,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3001996,CTX-M-138,4489,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002004,CTX-M-146,4492,protein homolog model,Escherichia coli,0,0.06,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002007,CTX-M-150,4493,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002010,CTX-M-153,4494,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3002011,CTX-M-154,4495,protein homolog model,Escherichia coli,0,0.03,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005593,CTX-M-170,4499,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005596,CTX-M-173,4502,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005597,CTX-M-174,4503,protein homolog model,Escherichia coli,0,0.03,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005598,CTX-M-175,4504,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005599,CTX-M-176,4505,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005600,CTX-M-177,4506,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005601,CTX-M-178,4507,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005602,CTX-M-179,4508,protein homolog model,Escherichia coli,0.01,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005604,CTX-M-181,4510,protein homolog model,Escherichia coli,0.01,0.01,0.09,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005605,CTX-M-182,4511,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005607,CTX-M-184,4513,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005612,CTX-M-189,4518,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005613,CTX-M-190,4519,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005615,CTX-M-192,4521,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005617,CTX-M-194,4523,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005619,CTX-M-196,4525,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005621,CTX-M-198,4527,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005622,CTX-M-199,4528,protein homolog model,Escherichia coli,0.03,0.09,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005629,CTX-M-206,4535,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005630,CTX-M-207,4536,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005638,CTX-M-215,4544,protein homolog model,Escherichia coli,0.01,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005641,CTX-M-218,4547,protein homolog model,Escherichia coli,0,0.07,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005642,CTX-M-219,4548,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005645,CTX-M-222,4551,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005646,CTX-M-223,4552,protein homolog model,Escherichia coli,0,0,0.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005648,CTX-M-225,4554,protein homolog model,Escherichia coli,0,0.31,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005649,CTX-M-226,4555,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005651,CTX-M-228,4557,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005654,CTX-M-231,4560,protein homolog model,Escherichia coli,0,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005657,CTX-M-234,4563,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005659,CTX-M-236,4565,protein homolog model,Escherichia coli,0.01,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005660,CTX-M-237,4566,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005663,CTX-M-240,4569,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005664,CTX-M-241,4570,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005665,CTX-M-242,4571,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005666,CTX-M-244,4572,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006465,DHA-24,4577,protein homolog model,Escherichia coli,0.02,0.02,0,0,perfect_strict,antibiotic inactivation; cephalosporin; cephamycin
+ARO:3006874,EC-13,4588,protein homolog model,Escherichia coli,0.01,11.4,4.03,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006875,EC-14,4589,protein homolog model,Escherichia coli,0.01,12.47,7.52,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006876,EC-15,4590,protein homolog model,Escherichia coli,0,18.12,19.64,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006877,EC-16,4591,protein homolog model,Escherichia coli,0,0.44,0.4,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006878,EC-18,4592,protein homolog model,Escherichia coli,0,3.81,1.83,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006879,EC-19,4593,protein homolog model,Escherichia coli,0,1.15,1.06,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006880,EC-5,4594,protein homolog model,Escherichia coli,0.01,15.68,9.46,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3006881,EC-8,4595,protein homolog model,Escherichia coli,0,7.53,6.4,0,perfect_strict,antibiotic inactivation; cephalosporin
+ARO:3005764,OXA-534,4869,protein homolog model,Escherichia coli,0,0.03,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3005996,OXA-796,5101,protein homolog model,Escherichia coli,0.48,0.05,0.06,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3006024,OXA-827,5129,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3006087,OXA-896,5192,protein homolog model,Escherichia coli,0.03,0.1,0,0,perfect_strict,antibiotic inactivation; carbapenem; cephalosporin; penam
+ARO:3006986,SFO-1,5643,protein homolog model,Escherichia coli,0,0.04,0,0,perfect_strict,antibiotic inactivation; carbapenem
+ARO:3006140,TEM-99,5669,protein homolog model,Escherichia coli,0,0.01,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam; penam; penem
+ARO:3006220,VEB-25,5686,protein homolog model,Escherichia coli,0.02,0,0,0,perfect_strict,antibiotic inactivation; cephalosporin; monobactam
