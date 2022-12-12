@@ -31,8 +31,8 @@ Data are provided from [CARD](https://card.mcmaster.ca/), a database of AMR gene
 
 Within `data` directory, the following data files have been provided
 
-* `CARD_Escherichia_coli_AMR_gene_prevalence.tsv` - prevalence information on AMR genes within *Escherichia coli*: how many genomes have the AMR gene?
-* `CARD_Escherichia_coli_nucleotide_AMR_genes.fasta` - nucleotide fasta file of AMR genes (only those within *Escherichia coli*): the actual sequences of the AMR genes. 
+* `CARD_Escherichia_coli_AMR_gene_prevalence.csv` - prevalence information on AMR genes within *Escherichia coli*: how many genomes have the AMR gene? (Selected from CARD download with 'perfect and strict' matching criteria)
+* `CARD_Escherichia_coli_nucleotide_AMR_genes.fasta` - nucleotide fasta file of AMR genes (only those within *Escherichia coli* as in the above file): the actual sequences of the AMR genes. 
 * `restriction_targets_genome_prevalence.txt` - table of the targets of Type II R-M systems which are 6-bp long with their prevalence in n=1611 *Escherichia coli* genomes: how prevalent are Type II R-M systems targeting each target?
 
 For the purposes of this project I have selected out only resistance genes that have been detected by a [protein homolog model](https://card.mcmaster.ca/ontology/40292): "Protein Homolog Models apply to all genes that confer resistance through their presence in an organism, such as the presence of a beta-lactamase gene on a plasmid." I have also selected only restriction targets of length k=6. 
